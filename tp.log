@@ -1,0 +1,564 @@
+DEBUG:asyncio:Using selector: ZMQSelector
+INFO:sawtooth_sdk.processor.core:register attempt: OK
+INFO:sawtooth_sdk.processor.core:unregister attempt: OK
+DEBUG:asyncio:Using selector: ZMQSelector
+INFO:sawtooth_sdk.processor.core:register attempt: OK
+INFO:sawtooth_sdk.processor.core:unregister attempt: OK
+DEBUG:asyncio:Using selector: ZMQSelector
+INFO:sawtooth_sdk.processor.core:register attempt: OK
+INFO:sawtooth_sdk.processor.core:unregister attempt: OK
+DEBUG:asyncio:Using selector: ZMQSelector
+DEBUG:asyncio:Using selector: ZMQSelector
+INFO:sawtooth_sdk.processor.core:register attempt: OK
+DEBUG:sawtooth_sdk.processor.core:received message of type: PING_REQUEST
+DEBUG:sawtooth_sdk.processor.core:received message of type: PING_REQUEST
+INFO:sawtooth_sdk.processor.core:unregister attempt: OK
+DEBUG:asyncio:Using selector: ZMQSelector
+INFO:sawtooth_sdk.processor.core:register attempt: OK
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['uaddManufacturer', 'filer']
+INFO:handler:entering add manufacture
+INFO:handler:Manufacturers: ['fi', 'if', 'ff', 'fl', 'fk', 'fb', 'fbn', 'fla', 'flak', 'flake', 'flakey', 'k', 'l', 'h', 'b', 'y', 'file']
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['uaddManufacturer', 'filer']
+INFO:handler:entering add manufacture
+INFO:handler:Manufacturers: ['fi', 'if', 'ff', 'fl', 'fk', 'fb', 'fbn', 'fla', 'flak', 'flake', 'flakey', 'k', 'l', 'h', 'b', 'y', 'file']
+DEBUG:asyncio:Using selector: ZMQSelector
+INFO:sawtooth_sdk.processor.core:register attempt: OK
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['taddManufacturr', 'files']
+DEBUG:handler:Unhandled action: addManufacturr
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['taddManufacturr', 'files']
+DEBUG:handler:Unhandled action: addManufacturr
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['uaddManufacturer', 'files']
+INFO:handler:entering add manufacture
+INFO:handler:Manufacturers: ['fi', 'if', 'ff', 'fl', 'fk', 'fb', 'fbn', 'fla', 'flak', 'flake', 'flakey', 'k', 'l', 'h', 'b', 'y', 'file', 'filer']
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['uaddManufacturer', 'files']
+INFO:handler:entering add manufacture
+INFO:handler:Manufacturers: ['fi', 'if', 'ff', 'fl', 'fk', 'fb', 'fbn', 'fla', 'flak', 'flake', 'flakey', 'k', 'l', 'h', 'b', 'y', 'file', 'filer']
+INFO:sawtooth_sdk.processor.core:unregister attempt: OK
+DEBUG:asyncio:Using selector: ZMQSelector
+DEBUG:asyncio:Using selector: ZMQSelector
+INFO:sawtooth_sdk.processor.core:register attempt: OK
+INFO:sawtooth_sdk.processor.core:unregister attempt: OK
+DEBUG:asyncio:Using selector: ZMQSelector
+INFO:sawtooth_sdk.processor.core:register attempt: OK
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['vaddManufacturer', 'filers']
+INFO:handler:entering add manufacture
+INFO:handler:Manufacturers: ['fi', 'if', 'ff', 'fl', 'fk', 'fb', 'fbn', 'fla', 'flak', 'flake', 'flakey', 'k', 'l', 'h', 'b', 'y', 'file', 'filer', 'files']
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['vaddManufacturer', 'filers']
+INFO:handler:entering add manufacture
+INFO:handler:Manufacturers: ['fi', 'if', 'ff', 'fl', 'fk', 'fb', 'fbn', 'fla', 'flak', 'flake', 'flakey', 'k', 'l', 'h', 'b', 'y', 'file', 'filer', 'files']
+INFO:sawtooth_sdk.processor.core:unregister attempt: OK
+DEBUG:asyncio:Using selector: ZMQSelector
+INFO:sawtooth_sdk.processor.core:register attempt: OK
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: 'PharmaTransactionHandler' object has no attribute '_decode_data'
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: 'PharmaTransactionHandler' object has no attribute '_decode_data'
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: 'PharmaTransactionHandler' object has no attribute '_decode_data'
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: 'PharmaTransactionHandler' object has no attribute '_decode_data'
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: 'PharmaTransactionHandler' object has no attribute '_decode_data'
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: 'PharmaTransactionHandler' object has no attribute '_decode_data'
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: 'PharmaTransactionHandler' object has no attribute '_decode_data'
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: 'PharmaTransactionHandler' object has no attribute '_decode_data'
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: 'PharmaTransactionHandler' object has no attribute '_decode_data'
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: 'PharmaTransactionHandler' object has no attribute '_decode_data'
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: 'PharmaTransactionHandler' object has no attribute '_decode_data'
+INFO:sawtooth_sdk.processor.core:unregister attempt: OK
+DEBUG:asyncio:Using selector: ZMQSelector
+INFO:sawtooth_sdk.processor.core:register attempt: OK
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: name 'State' is not defined
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: name 'State' is not defined
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: name 'State' is not defined
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: name 'State' is not defined
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: name 'State' is not defined
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: name 'State' is not defined
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: name 'State' is not defined
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: name 'State' is not defined
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: name 'State' is not defined
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: name 'State' is not defined
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: name 'State' is not defined
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: name 'State' is not defined
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: name 'State' is not defined
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: name 'State' is not defined
+INFO:sawtooth_sdk.processor.core:unregister attempt: OK
+DEBUG:asyncio:Using selector: ZMQSelector
+INFO:sawtooth_sdk.processor.core:register attempt: OK
+INFO:sawtooth_sdk.processor.core:unregister attempt: OK
+DEBUG:asyncio:Using selector: ZMQSelector
+INFO:sawtooth_sdk.processor.core:register attempt: OK
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: _unpack_transaction() missing 1 required positional argument: 'transaction'
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: _unpack_transaction() missing 1 required positional argument: 'transaction'
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: _unpack_transaction() missing 1 required positional argument: 'transaction'
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: _unpack_transaction() missing 1 required positional argument: 'transaction'
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: _unpack_transaction() missing 1 required positional argument: 'transaction'
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: _unpack_transaction() missing 1 required positional argument: 'transaction'
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: _unpack_transaction() missing 1 required positional argument: 'transaction'
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: _unpack_transaction() missing 1 required positional argument: 'transaction'
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: _unpack_transaction() missing 1 required positional argument: 'transaction'
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: _unpack_transaction() missing 1 required positional argument: 'transaction'
+INFO:sawtooth_sdk.processor.core:unregister attempt: OK
+DEBUG:asyncio:Using selector: ZMQSelector
+INFO:sawtooth_sdk.processor.core:register attempt: OK
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: name 'this' is not defined
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: name 'this' is not defined
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: name 'this' is not defined
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: name 'this' is not defined
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: name 'this' is not defined
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: name 'this' is not defined
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: name 'this' is not defined
+INFO:sawtooth_sdk.processor.core:unregister attempt: OK
+DEBUG:asyncio:Using selector: ZMQSelector
+INFO:sawtooth_sdk.processor.core:register attempt: OK
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x18addManufacturer', 'filerstu']
+DEBUG:handler:Unhandled action: addManufacturer
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x18addManufacturer', 'filerstu']
+DEBUG:handler:Unhandled action: addManufacturer
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x18addManufacturer', 'filerstu']
+DEBUG:handler:Unhandled action: addManufacturer
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x18addManufacturer', 'filerstu']
+DEBUG:handler:Unhandled action: addManufacturer
+INFO:sawtooth_sdk.processor.core:unregister attempt: OK
+DEBUG:asyncio:Using selector: ZMQSelector
+INFO:sawtooth_sdk.processor.core:register attempt: OK
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x18addManufacturer', 'filerstu']
+DEBUG:handler:Unhandled action: addManufacturer
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x18addManufacturer', 'filerstu']
+DEBUG:handler:Unhandled action: addManufacturer
+INFO:sawtooth_sdk.processor.core:unregister attempt: OK
+DEBUG:asyncio:Using selector: ZMQSelector
+INFO:sawtooth_sdk.processor.core:register attempt: OK
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x18addManufacturer', 'filerstu']
+DEBUG:root:excecption: name 'LOGGER' is not defined
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x18addManufacturer', 'filerstu']
+DEBUG:root:excecption: name 'LOGGER' is not defined
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x18addManufacturer', 'filerstu']
+DEBUG:root:excecption: name 'LOGGER' is not defined
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x18addManufacturer', 'filerstu']
+DEBUG:root:excecption: name 'LOGGER' is not defined
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x18addManufacturer', 'filerstu']
+DEBUG:root:excecption: name 'LOGGER' is not defined
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x18addManufacturer', 'filerstu']
+DEBUG:root:excecption: name 'LOGGER' is not defined
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x18addManufacturer', 'filerstu']
+DEBUG:root:excecption: name 'LOGGER' is not defined
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x18addManufacturer', 'filerstu']
+DEBUG:root:excecption: name 'LOGGER' is not defined
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x18addManufacturer', 'filerstu']
+DEBUG:root:excecption: name 'LOGGER' is not defined
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x18addManufacturer', 'filerstu']
+DEBUG:root:excecption: name 'LOGGER' is not defined
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x18addManufacturer', 'filerstu']
+DEBUG:root:excecption: name 'LOGGER' is not defined
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+INFO:sawtooth_sdk.processor.core:unregister attempt: OK
+DEBUG:asyncio:Using selector: ZMQSelector
+INFO:sawtooth_sdk.processor.core:register attempt: OK
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x18addManufacturer', 'filerstu']
+DEBUG:root:excecption: name 'LOGGER' is not defined
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x18addManufacturer', 'filerstu']
+DEBUG:root:excecption: name 'LOGGER' is not defined
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x18addManufacturer', 'filerstu']
+DEBUG:root:excecption: name 'LOGGER' is not defined
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x18addManufacturer', 'filerstu']
+DEBUG:root:excecption: name 'LOGGER' is not defined
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x18addManufacturer', 'filerstu']
+DEBUG:root:excecption: name 'LOGGER' is not defined
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x18addManufacturer', 'filerstu']
+DEBUG:root:excecption: name 'LOGGER' is not defined
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+INFO:sawtooth_sdk.processor.core:unregister attempt: OK
+DEBUG:asyncio:Using selector: ZMQSelector
+INFO:sawtooth_sdk.processor.core:register attempt: OK
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x18addManufacturer', 'filerstu']
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x18addManufacturer', 'filerstu']
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+INFO:sawtooth_sdk.processor.core:unregister attempt: OK
+DEBUG:asyncio:Using selector: ZMQSelector
+INFO:sawtooth_sdk.processor.core:register attempt: OK
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x18addManufacturer', 'filerstu']
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+INFO:sawtooth_sdk.processor.core:unregister attempt: OK
+DEBUG:asyncio:Using selector: ZMQSelector
+INFO:sawtooth_sdk.processor.core:register attempt: OK
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x18addManufacturer', 'filerstu']
+INFO:sawtooth_sdk.processor.core:unregister attempt: OK
+DEBUG:asyncio:Using selector: ZMQSelector
+INFO:sawtooth_sdk.processor.core:register attempt: OK
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x18addManufacturer', 'filerstu']
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x18addManufacturer', 'filerstu']
+INFO:sawtooth_sdk.processor.core:unregister attempt: OK
+DEBUG:asyncio:Using selector: ZMQSelector
+INFO:sawtooth_sdk.processor.core:register attempt: OK
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x19addManufacturer', 'filerstud']
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x19addManufacturer', 'filerstud']
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x19addManufacturer', 'filerstud']
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x19addManufacturer', 'filerstud']
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x19addManufacturer', 'filerstud']
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x19addManufacturer', 'filerstud']
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x19addManufacturer', 'filerstud']
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x19addManufacturer', 'filerstud']
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x19addManufacturer', 'filerstud']
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x19addManufacturer', 'filerstud']
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x19addManufacturer', 'filerstud']
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x19addManufacturer', 'filerstud']
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x19addManufacturer', 'filerstud']
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x19addManufacturer', 'filerstud']
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x19addManufacturer', 'filerstud']
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x19addManufacturer', 'filerstud']
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x19addManufacturer', 'filerstud']
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x19addManufacturer', 'filerstud']
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+INFO:sawtooth_sdk.processor.core:unregister attempt: OK
+DEBUG:asyncio:Using selector: ZMQSelector
+INFO:sawtooth_sdk.processor.core:register attempt: OK
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x19addManufacturer', 'filerstud']
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x\x19addManufacturer', 'filerstud']
+INFO:sawtooth_sdk.processor.core:unregister attempt: OK
+DEBUG:asyncio:Using selector: ZMQSelector
+INFO:sawtooth_sdk.processor.core:register attempt: OK
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['raddDistributor', 'vak']
+INFO:state:entering addDist
+INFO:state:Distributers: ['flake', 'flakers', 'p']
+DEBUG:root:exception: name 'self_encode_data' is not defined
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['raddDistributor', 'vak']
+INFO:state:entering addDist
+INFO:state:Distributers: ['flake', 'flakers', 'p']
+DEBUG:root:exception: name 'self_encode_data' is not defined
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['raddDistributor', 'vak']
+INFO:state:entering addDist
+INFO:state:Distributers: ['flake', 'flakers', 'p']
+DEBUG:root:exception: name 'self_encode_data' is not defined
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['raddDistributor', 'vak']
+INFO:state:entering addDist
+INFO:state:Distributers: ['flake', 'flakers', 'p']
+DEBUG:root:exception: name 'self_encode_data' is not defined
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['raddDistributor', 'vak']
+INFO:state:entering addDist
+INFO:state:Distributers: ['flake', 'flakers', 'p']
+DEBUG:root:exception: name 'self_encode_data' is not defined
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['raddDistributor', 'vak']
+INFO:state:entering addDist
+INFO:state:Distributers: ['flake', 'flakers', 'p']
+DEBUG:root:exception: name 'self_encode_data' is not defined
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['raddDistributor', 'vak']
+INFO:state:entering addDist
+INFO:state:Distributers: ['flake', 'flakers', 'p']
+DEBUG:root:exception: name 'self_encode_data' is not defined
+WARNING:sawtooth_sdk.processor.core:Invalid Transaction Error: State Error
+INFO:sawtooth_sdk.processor.core:unregister attempt: OK
+DEBUG:asyncio:Using selector: ZMQSelector
+INFO:sawtooth_sdk.processor.core:register attempt: OK
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['raddDistributor', 'vak']
+INFO:state:entering addDist
+INFO:state:Distributers: ['flake', 'flakers', 'p']
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['raddDistributor', 'vak']
+INFO:state:entering addDist
+INFO:state:Distributers: ['flake', 'flakers', 'p']
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['taddDistributor', 'jacko']
+INFO:state:entering addDist
+INFO:state:Distributers: ['flake', 'flakers', 'p', 'vak']
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['taddDistributor', 'jacko']
+INFO:state:entering addDist
+INFO:state:Distributers: ['flake', 'flakers', 'p', 'vak']
+DEBUG:asyncio:Using selector: ZMQSelector
+INFO:sawtooth_sdk.processor.core:register attempt: OK
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['uaddDistributor', 'jackon']
+INFO:state:entering addDist
+INFO:state:Distributers: ['flake', 'flakers', 'p', 'vak', 'jacko']
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['uaddDistributor', 'jackon']
+INFO:state:entering addDist
+INFO:state:Distributers: ['flake', 'flakers', 'p', 'vak', 'jacko']
+INFO:sawtooth_sdk.processor.core:unregister attempt: OK
+DEBUG:sawtooth_sdk.processor.core:received message of type: PING_REQUEST
+DEBUG:asyncio:Using selector: ZMQSelector
+INFO:sawtooth_sdk.processor.core:register attempt: OK
+INFO:sawtooth_sdk.processor.core:unregister attempt: OK
+DEBUG:asyncio:Using selector: ZMQSelector
+INFO:sawtooth_sdk.processor.core:register attempt: OK
+INFO:sawtooth_sdk.processor.core:unregister attempt: OK
+DEBUG:asyncio:Using selector: ZMQSelector
+INFO:sawtooth_sdk.processor.core:register attempt: OK
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x/{"action": "addManufacturer"', ' "data": "Pfizer"}']
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x/{"action": "addManufacturer"', ' "data": "Pfizer"}']
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x0{"action": "addManufacturer"', ' "data": "Pfizerz"}']
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x0{"action": "addManufacturer"', ' "data": "Pfizerz"}']
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x8{"action": "addManufacturer"', ' "data": "ClariceStarling"}']
+DEBUG:sawtooth_sdk.processor.core:received message of type: TP_PROCESS_REQUEST
+INFO:handler:starting apply function
+INFO:handler:payload: ['x8{"action": "addManufacturer"', ' "data": "ClariceStarling"}']
+DEBUG:asyncio:Using selector: ZMQSelector
+INFO:sawtooth_sdk.processor.core:register attempt: OK
+INFO:sawtooth_sdk.processor.core:unregister attempt: OK
+DEBUG:asyncio:Using selector: ZMQSelector
+INFO:sawtooth_sdk.processor.core:register attempt: OK
+INFO:sawtooth_sdk.processor.core:unregister attempt: OK
